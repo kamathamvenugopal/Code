@@ -19,4 +19,4 @@ public class Login implements Serializable {
 		this.userId = userId;
 	}
 
-
+public void setRole1
